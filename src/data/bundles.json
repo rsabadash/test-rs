@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "bgImage": "/assets/cover.png",
+    "timeLeftMs": 3600000,
+    "maxAvailable": 10,
+    "available": 5,
+    "price": {
+      "amount": 99,
+      "currencySymbol": "$"
+    },
+    "products": [
+      {
+        "id": 1,
+        "productImage": "/assets/asset1.png",
+        "amount": "6,000",
+        "productTextColor": "teal"
+      },
+      {
+        "id": 2,
+        "productImage": "/assets/asset3.png",
+        "amount": "30M",
+        "productTextColor": "gold"
+      },
+      {
+        "id": 3,
+        "productImage": "/assets/asset2.png",
+        "amount": "20",
+        "productTextColor": "purple"
+      },
+      {
+        "id": 4,
+        "productImage": "/assets/asset2.png",
+        "amount": "6,000",
+        "productTextColor": "teal"
+      },
+      {
+        "id": 5,
+        "productImage": "/assets/asset1.png",
+        "amount": "30M",
+        "productTextColor": "gold"
+      },
+      {
+        "id": 6,
+        "productImage": "/assets/asset1.png",
+        "amount": "20",
+        "productTextColor": "purple"
+      },
+      {
+        "id": 7,
+        "productImage": "/assets/asset3.png",
+        "amount": "6,000",
+        "productTextColor": "teal"
+      },
+      {
+        "id": 8,
+        "productImage": "/assets/asset2.png",
+        "amount": "30M",
+        "productTextColor": "gold"
+      },
+      {
+        "id": 9,
+        "productImage": "/assets/asset1.png",
+        "amount": "20",
+        "productTextColor": "purple"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "bgImage": "/assets/cover.png",
+    "timeLeftMs": 7200000,
+    "maxAvailable": 20,
+    "available": 15,
+    "price": {
+      "amount": 149,
+      "currencySymbol": "$"
+    },
+    "products": [
+      {
+        "id": 1,
+        "productImage": "/assets/asset2.png",
+        "amount": "12,000",
+        "productTextColor": "blue"
+      },
+      {
+        "id": 2,
+        "productImage": "/assets/asset3.png",
+        "amount": "60M",
+        "productTextColor": "gold"
+      },
+      {
+        "id": 3,
+        "productImage": "/assets/asset1.png",
+        "amount": "40",
+        "productTextColor": "pink"
+      },
+      {
+        "id": 4,
+        "productImage": "/assets/asset1.png",
+        "amount": "12,000",
+        "productTextColor": "blue"
+      },
+      {
+        "id": 5,
+        "productImage": "/assets/asset2.png",
+        "amount": "60M",
+        "productTextColor": "gold"
+      },
+      {
+        "id": 6,
+        "productImage": "/assets/asset3.png",
+        "amount": "40",
+        "productTextColor": "pink"
+      },
+      {
+        "id": 7,
+        "productImage": "/assets/asset3.png",
+        "amount": "12,000",
+        "productTextColor": "blue"
+      },
+      {
+        "id": 8,
+        "productImage": "/assets/asset2.png",
+        "amount": "60M",
+        "productTextColor": "gold"
+      },
+      {
+        "id": 9,
+        "productImage": "/assets/asset1.png",
+        "amount": "40",
+        "productTextColor": "pink"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "bgImage": "/assets/cover.png",
+    "timeLeftMs": 10800000,
+    "maxAvailable": 5,
+    "available": 2,
+    "price": {
+      "amount": 199,
+      "currencySymbol": "$"
+    },
+    "products": [
+      {
+        "id": 1,
+        "productImage": "/assets/asset1.png",
+        "amount": "18,000",
+        "productTextColor": "green"
+      },
+      {
+        "id": 2,
+        "productImage": "/assets/asset3.png",
+        "amount": "100M",
+        "productTextColor": "gold"
+      },
+      {
+        "id": 3,
+        "productImage": "/assets/asset3.png",
+        "amount": "60",
+        "productTextColor": "red"
+      },
+      {
+        "id": 4,
+        "productImage": "/assets/asset2.png",
+        "amount": "18,000",
+        "productTextColor": "green"
+      },
+      {
+        "id": 5,
+        "productImage": "/assets/asset1.png",
+        "amount": "100M",
+        "productTextColor": "gold"
+      },
+      {
+        "id": 6,
+        "productImage": "/assets/asset3.png",
+        "amount": "60",
+        "productTextColor": "red"
+      }
+    ]
+  }
+]

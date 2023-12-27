@@ -1,0 +1,41 @@
+.carousel {
+}
+
+.carousel_items {
+  display: inline-flex;
+  width: 100%;
+}
+
+.carousel_action {
+  position: absolute;
+  z-index: 1;
+  border: none;
+  border-radius: 50%;
+  width: 2em;
+  height: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  color: #000000;
+  box-shadow: 0 7px 15px 1px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.carousel_action:hover {
+  opacity: 0.7;
+}
+
+.carousel_action:disabled {
+  opacity: 0.4;
+}
+
+.carousel_prevAction {
+  /* rtl/ltr direction */
+  inset-inline-start: 0.5em;
+}
+
+.carousel_nextAction {
+  /* rtl/ltr direction */
+  inset-inline-end: 0.5em;
+}

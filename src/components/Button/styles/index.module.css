@@ -1,0 +1,21 @@
+.button {
+  border: none;
+  font-weight: bold;
+  padding: 0.5em 1.5em;
+  border-radius: 0.75em;
+  width: fit-content;
+  box-shadow: 0 7px 15px 1px rgba(0, 0, 0, 0.5);
+}
+
+.button_m {
+  font-size: 1.5rem;
+}
+
+.button_success {
+  background: linear-gradient(
+    0deg,
+    rgba(41, 124, 35, 1) 0%,
+    rgba(56, 156, 47, 1) 35%,
+    rgba(88, 162, 35, 1) 100%
+  );
+}
